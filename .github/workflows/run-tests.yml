@@ -361,3 +361,4 @@ jobs:
           echo "" >> $GITHUB_STEP_SUMMARY
           echo "Threshold: 18%" >> $GITHUB_STEP_SUMMARY
           echo "Status: ${{ job.status }}" >> $GITHUB_STEP_SUMMARY
+# measure: register workflow in fork
